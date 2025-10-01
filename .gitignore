@@ -25,7 +25,11 @@ npm-debug.log*
 /build
 /dist
 /.next
-/output.css
+/out
+
+# Tailwind CSS build output
+src/output.css
+
 
 # IDEs and editors
 /.idea
