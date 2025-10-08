@@ -3,5 +3,6 @@
 
 @theme {
     --font-josefin: "Josefin Sans", sans-serif;
-    font-weight: 400, 700;
+    --font-wg-normal: 400;
+    --font-wg-bold: 700;
 }
